@@ -1,9 +1,14 @@
 ## Hey 👋 I'm Rachelle (Ray-Shell)
 
-Senior frontend developer. Blue belt in Taekwondo. I break things — then fix them.
+Senior frontend engineer. Blue belt in Taekwondo. I break things — then fix them.
 
-### My setup 💻
+### Daily essentials 💻
 - VS Code + Claude
 - Bitwarden
 - Spotify (My code runs on caffeine and Spotify)
 - Macbook Pro
+
+### Currently ✍️
+- 🔨 Building: [PocketPT](https://github.com/rachelleragasa/pocketpt) 👷
+- 📖 Learning: how to make AI my bestfriend
+- 🥋 Kicking things (literally) at training
